@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test parallel="methods" thread-count="4" verbose="2" preserve-order="true" name="E:/Year 4/IS 4102/Assignment 2/20020961">
+        <classes>
+            <class name="tests.DarazTest">
+                <methods>
+                    <include name="filterDSLR"/>
+                    <include name="searchWallets"/>
+                    <include name="testMinMaxValues"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
