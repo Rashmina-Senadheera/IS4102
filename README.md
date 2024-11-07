@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains a test automation framework for the **Daraz.lk** website, developed for the IS4102 – Advanced Software Quality Assurance course. The framework leverages **Selenium WebDriver** and **TestNG**, following the **Page Object Model (POM)** design pattern to ensure modularity, readability, and maintainability of test scripts.
+This repository contains a test automation framework for the **Daraz.lk** (https://www.daraz.lk/#?) website, developed for the IS4102 – Advanced Software Quality Assurance course. The framework leverages **Selenium WebDriver** and **TestNG**, following the **Page Object Model (POM)** design pattern to ensure modularity, readability, and maintainability of test scripts.
 
-The test cases focus on essential e-commerce functionalities, such as filtering products by category and price, sorting results, and verifying search functionality. The framework is designed to support scalability and cross-browser testing, making it suitable for automating regression test suites for e-commerce applications.
+The test cases focus on essential e-commerce functionalities, such as filtering products by category and price, sorting results, and verifying search functionality. The framework is designed to support scalability and cross-browser testing.
 
 ---
 
@@ -57,8 +57,8 @@ Each test script is self-contained and uses assertions to validate the expected 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/Rashmina-Senadheera/IS4102
+   cd 20020961
 
 
 
